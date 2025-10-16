@@ -1,0 +1,42 @@
+MyCustomizeTag {
+    display: block;
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    width: 500px;
+}
+div{
+    background-color:yellow;
+    margin: 0px 0px 5px 5p;
+    width: 300px;
+}
+.GroupFormat{
+    font-weight: bold;
+    color: #f00;
+    width:400px;
+}
+#TheHighestPriority{
+    background-color: #000;
+    font-weight: none;
+    font: italic 30px "Times New Roman";
+    color: #fff;
+}
+
+.ProductDetails {display:none;}
+.Product img{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px #aaa;
+}
+.ProductName {font-weight: bold;}
+.ProductPrice {font-style: italic;}
+.ProductPrice:before {content: "-"}
+.Product{
+    text-align:center;
+    width:150px;
+    margin: 0px 20px;
+    float:left;
+    cursor: pointer;
+}
+.Product:hover .ProductDetails {display: block;}
