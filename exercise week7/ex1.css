@@ -1,23 +1,3 @@
-MyCustomizeTag {
-    display: block;
-    text-align: center;
-    text-transform: capitalize;
-    text-decoration: underline;
-    width: 500px;
-
-}
-.GroupFormat{
-    font-weight: bold;
-    color: #f00;
-    width:400px;
-}
-#TheHighestPriority{
-    background-color: #000;
-    font-weight: none;
-    font: italic 30px "Times New Roman";
-    color: #fff;
-}
-
 .ProductDetails {display:none;}
 .Product img{
     width: 150px;
