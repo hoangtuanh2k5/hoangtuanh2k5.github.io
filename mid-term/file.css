@@ -1,0 +1,13 @@
+
+.a {
+  position: relative;
+  text-decoration: none;
+  color: #000;
+}
+.a:hover {
+  width: 100%;
+}
+
+.link {
+    text-color: blue
+}
